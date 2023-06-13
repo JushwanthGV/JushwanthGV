@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JushwanthGV
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning J2EE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/jushwanth-g-v-708683201/
