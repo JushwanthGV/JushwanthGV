@@ -8,6 +8,7 @@ Cloud: AWS (EC2, S3, DynamoDB, Lambda, etc.)
 DevOps: Jenkins, Terraform, Git, Docker, Prometheus, Grafana
 Languages: Java, HTML, CSS, JavaScript, React, Spring Boot
 Database: MySQL, DynamoDB
+
 🔭 Projects
 Netflix Clone (DevSecOps): Focus on security and monitoring, using Jenkins, SonarQube, Trivy, Prometheus, and Grafana.
 AWS Scalable App: A cloud-native app using EC2, S3, DynamoDB, and Lambda for dynamic scaling.
