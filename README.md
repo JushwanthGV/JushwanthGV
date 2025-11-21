@@ -17,5 +17,5 @@ I'm focused on building scalable, secure applications using AWS and DevOps tools
 - **Infrastructure as Code:** Automated AWS provisioning with Terraform.  
 
 📫 Get in Touch  
-- **Email:** jushwanth@gmail.com  
+- **Email:** prajush01@gmail.com  
 - **LinkedIn:** [www.linkedin.com/in/jushwanthgv](https://www.linkedin.com/in/jushwanthgv)
